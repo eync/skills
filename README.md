@@ -93,13 +93,13 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 ### Azure 🛠️ 
  
 ## CMS
-Drupal
-- versions 6,7 & 8 ✔️ 
-- Module building ✔️ 
-Wordpress
-- Templating ✔️ 
-SMF
-- Templating ✔️ 
-Magento 
-- Templating ✔️ 
-- APIs
+- Drupal
+    - versions 6,7 & 8 ✔️ 
+    - Module building ✔️ 
+- Wordpress
+    - Templating ✔️ 
+- SMF
+    - Templating ✔️ 
+    - APIs
+- Magento 
+    - Templating ✔️ 
