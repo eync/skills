@@ -1,6 +1,13 @@
 # skills
-List of things I can handle, I am learning or planning to learn
-More stuff will be added as I go further. So remember to follow this repository if u are interested :) 
+List of things I can handle, I am learning or planning to learn.
+More stuff will be added as I go further. So remember to follow this repository if you are interested :) 
+ 
+ ✔️ = Comfortable with this skill. 
+ 
+ 🛠️ = Working on this skill. 
+ 
+ 💭 = Dreaming about it! (Going to learn it). 
+ 
  
 Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Structuring.
 
