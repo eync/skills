@@ -1,13 +1,33 @@
 # skills
 List of things I can handle, I am learning or planning to learn
-
+More stuff will be added as I go further. So remember to follow this repository if u are interested :) 
+ 
 Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Structuring.
 
 ## Frontend
 ### HTML
+- SEO ✔️
+- Semantics ✔️
+- Accessibility 🛠️
 ### CSS
+- Responsive Web Design ✔️
+- Flex ✔️
+- Grid ✔️
+- **Frameworks**
+    - Skeleton ✔️ 
+    - Material UI ✔️
+    - Bootstrap ✔️
+    - UI kit ✔️
 ### Javascript
 ### React
+- hooks ✔️
+    - useState ✔️
+    - useEffect ✔️
+    - useLayoutEffect ✔️
+- props ✔️
+- atom design 🛠️
+- reusable components 🛠️
+- code splitting ✔️
 
 ## Backend
 ### Node.js
@@ -18,6 +38,15 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 #### PostSqreSQL
 ### TypeScript
 ### 
+
+## Tools
+### Git ✔️ 
+### Github ✔️
+### SSH ✔️
+### VSC ✔️
+### Terminal and commands (Linux ✔️, Windows ✔️ & Mac ✔️)
+### NPM ✔️
+### HTTP, HTTPS and APIs ✔️
 
 
 ## DevOps
