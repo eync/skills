@@ -96,10 +96,11 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 - Drupal
     - versions 6,7 & 8 ✔️ 
     - Module building ✔️ 
+    - Templating ✔️ 
 - Wordpress
     - Templating ✔️ 
 - SMF
-    - Templating ✔️ 
-    - APIs
+    - APIs ✔️
+    - Templating ✔️
 - Magento 
     - Templating ✔️ 
