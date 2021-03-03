@@ -17,6 +17,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 - SEO ✔️
 - Semantics ✔️
 - Accessibility 🛠️
+ 
 ### CSS
 - Responsive Web Design ✔️
 - Flex ✔️
@@ -26,8 +27,21 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
     - Material UI ✔️
     - Bootstrap ✔️
     - UI kit ✔️
-    - Tailwind CSS 🛠️
+    - Tailwind CSS 🛠️ 
+ 
 ### Javascript
+- Variables (Var, Let & Const) ✔️
+- Conditional Statements ✔️
+- Functions (arrow, anonymous, etc) ✔️
+- Scope ✔️
+- Arrays ✔️
+- Loops ✔️
+- Iterators ✔️
+- Objects ✔️
+- Classes 🛠️
+- Promises 🛠️
+- Async 🛠️
+
 ### React
 - hooks ✔️
     - useState ✔️
