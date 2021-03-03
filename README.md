@@ -1,5 +1,6 @@
 # skills
-List of things I can handle, I am learning or planning to learn.
+List of things I can handle, I am learning or planning to learn. 
+ 
 More stuff will be added as I go further. So remember to follow this repository if you are interested :) 
  
  ✔️ = Comfortable with this skill. 
