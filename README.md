@@ -55,6 +55,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 ### Terminal and commands (Linux ✔️, Windows ✔️ & Mac ✔️)
 ### NPM ✔️
 ### HTTP, HTTPS and APIs ✔️ 
+### POSTMAN ✔️ 
  
 
 ## DevOps
