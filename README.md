@@ -26,6 +26,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
     - Material UI ✔️
     - Bootstrap ✔️
     - UI kit ✔️
+    - Tailwind CSS 🛠️
 ### Javascript
 ### React
 - hooks ✔️
