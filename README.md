@@ -90,4 +90,16 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 - UFW ✔️
 - General Security measures ✔️ 
  
-### Azure 🛠️
+### Azure 🛠️ 
+ 
+## CMS
+Drupal
+- versions 6,7 & 8 ✔️ 
+- Module building ✔️ 
+Wordpress
+- Templating ✔️ 
+SMF
+- Templating ✔️ 
+Magento 
+- Templating ✔️ 
+- APIs
