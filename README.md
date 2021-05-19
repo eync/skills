@@ -57,7 +57,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 ### MongoDB 🛠️
 ### GraphQL 💭
 ### SQL 
-- MySQL 🛠️
+- MySQL ✔️ 
 - PostSqreSQL 💭
 ### TypeScript 💭 
  
