@@ -73,7 +73,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 ### POSTMAN ✔️ 
 ### Project Management
 - Kanban basics ✔️ 
-- Scrum 💭 
+- Scrum ✔️ 
  
 
 ## DevOps
