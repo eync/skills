@@ -61,7 +61,7 @@ Currently Learning: React advanced, GraphQL, Node.js advanced, Better Code Struc
 - PostSqreSQL 💭
 ### TypeScript 💭 
  
-## Frontend
+## Testing
 ### Jest.js 💭
 ### Mocha.js 💭
 ### POSTMAN ✔️ 
